@@ -1,4 +1,4 @@
-# 🧠 AI Models Learning - Study Repository 🚀
+# 🧠 AI Models Learning - Study Repository and Practices 🚀
 
 This repository serves as my personal collection of notes and practices in **Data Science**, **Machine Learning**, and **Deep Learning**. The goal is to document my learning process and build a portfolio of projects and experiments.
 
